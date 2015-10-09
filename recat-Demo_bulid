@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <script src="../build/react.js"></script>
+    <script src="../build/JSXTransformer.js"></script>
+    <script src="../build/browser.min.js"></script>
+  </head>
+  <body>
+    <div id="example"></div>
+    <script type="text/jsx"></script>
+    <script type="text/babel"></script>
+  <body>
+</html>
